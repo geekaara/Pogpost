@@ -1,11 +1,11 @@
-import { Button } from "@/components/ui/button"
+import { Button } from "@/components/ui/button";
 const SignupForm = () => {
   return (
     <>
-    <div>SignupForm</div>
-    <Button>Click me</Button>
+      <div>SignupForm</div>
+      <Button>Click me</Button>
     </>
-  )
-}
+  );
+};
 
-export default SignupForm
+export default SignupForm;
